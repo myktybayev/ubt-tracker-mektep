@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "778390167233",
+    "project_id": "ubt-tracker",
+    "storage_bucket": "ubt-tracker.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778390167233:android:2ae7b212d56e99af623e40",
+        "android_client_info": {
+          "package_name": "kz.jihc.technolab.ubttracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778390167233-g737umdtol144a8vks1ji0ufp704rhla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANbvsc7de73vkmknDI6QY7U0zCNIppNCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778390167233-g737umdtol144a8vks1ji0ufp704rhla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

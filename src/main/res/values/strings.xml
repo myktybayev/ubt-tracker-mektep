@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">UBT Tracker(mektep)</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_class">Сыныптар</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="fill_all">Ақпаратты толтырыңыз</string>
+    <string name="login_or_pass_error">Логин немесе құпия сөз қате</string>
+    <string name="data_loading">Күте тұрыңыз, ақпараттар жүктеліп жатыр..</string>
+    <string name="classTitle">Сыныптар</string>
+    <string name="del_profile_subjects">Өшіруді қалайсыз ба?</string>
+    <string name="profile_subjects_deleted">Сынып сәтті өшірілді!</string>
+    <string name="yes">Ия</string>
+    <string name="no">Жоқ</string>
+    <string name="class_added">Сынып сәтті ензігілді</string>
+    <string name="enter_group_error">сынып атын енгізіңіз</string>
+    <string name="inetConnection">Check internet connection</string>
+    <string name="not_logged_in_yet">not logged in yet</string>
+
+
+    <integer-array name="gradientStore">
+        <item>@drawable/gradient1</item>
+        <item>@drawable/gradient2</item>
+        <item>@drawable/gradient3</item>
+        <item>@drawable/gradient4</item>
+        <item>@drawable/gradient5</item>
+        <item>@drawable/gradient6</item>
+        <item>@drawable/gradient7</item>
+        <item>@drawable/gradient8</item>
+        <item>@drawable/gradient1</item>
+        <item>@drawable/gradient2</item>
+        <item>@drawable/gradient3</item>
+        <item>@drawable/gradient4</item>
+        <item>@drawable/gradient5</item>
+        <item>@drawable/gradient6</item>
+        <item>@drawable/gradient7</item>
+        <item>@drawable/gradient8</item>
+        <item>@drawable/gradient1</item>
+        <item>@drawable/gradient2</item>
+        <item>@drawable/gradient3</item>
+        <item>@drawable/gradient4</item>
+        <item>@drawable/gradient5</item>
+        <item>@drawable/gradient6</item>
+        <item>@drawable/gradient7</item>
+        <item>@drawable/gradient8</item>
+    </integer-array>
+
+
+    <string-array name="monthStore">
+        <item>Қаңтар</item>
+        <item>Ақпан</item>
+        <item>Наурыз</item>
+        <item>Сәуір</item>
+        <item>Мамыр</item>
+        <item>Маусым</item>
+        <item>Шілде</item>
+        <item>Тамыз</item>
+        <item>Қыркүйек</item>
+        <item>Қазан</item>
+        <item>Қараша</item>
+        <item>Желтоқсан</item>
+    </string-array>
+
+</resources>
